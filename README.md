@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samed</h1>
-<h4 align="center">Merhaba Ben Samed </h4>
+<p align="center"> (Merhaba Ben Samed) </p>
 
 <h3 align="center">Languages and Tools</h3>
 <h5 align="center">Kullandığım Diller Ve Araçlar </h5>
