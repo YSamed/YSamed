@@ -11,10 +11,10 @@
 </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> 
 
-
+</p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysamed&show_icons=true&theme=dark&text_color=1eb4e6&locale=en&layout=compact" alt="ysamed" />
   
-</p>
+
 
 
 
