@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samed</h1>
 
 <h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
 </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> </a> 
@@ -8,6 +9,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
 </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> 
+</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysamed&show_icons=true&theme=dark&text_color=1eb4e6&locale=en&layout=compact" alt="ysamed" />
   
