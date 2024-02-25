@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samed</h1>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
 </a> 
@@ -10,20 +10,6 @@
 </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> 
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysamed&show_icons=true&theme=dark&text_color=1eb4e6&locale=en&layout=compact" alt="ysamed" />
-  
-
-
-
-
-
-
-
-
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YSamed/YSamed/output/github-contribution-grid-snake-dark.svg">
