@@ -12,24 +12,17 @@
 
 ![Python](https://img.shields.io/badge/Python-3B6D11?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0F6E56?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-993C1D?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-185FA5?style=flat-square&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-534AB7?style=flat-square&logo=sqlite&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-993C1D?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-185FA5?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-534AB7?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-854F0B?style=flat-square&logo=git&logoColor=white)
-
----
-
-### GitHub Stats
-
-![Samed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YSamed&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YSamed&layout=compact&hide_border=true)
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-993C1D?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Website](https://img.shields.io/badge/Website-yasarsamederol.com-185FA5?style=flat-square&logo=googlechrome&logoColor=white)](https://yasarsamederol.com/)
+[![Email](https://img.shields.io/badge/Email-993C1D?style=flat-square&logo=gmail&logoColor=white)](mailto:yasarsamederol@gmail.com)
 
 ---
 
